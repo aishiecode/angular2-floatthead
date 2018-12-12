@@ -11,5 +11,3 @@ Steps:
 4. use the floatthead selector in your template.
 5  Done. enjoy :)
 
-It can freeze header of a table like below example:
-![woot](https://im5.ezgif.com/tmp/ezgif-5-d53c0bfab2cf.gif "view")
