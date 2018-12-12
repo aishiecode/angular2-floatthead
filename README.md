@@ -1,5 +1,5 @@
 # angular2-floatthead
-directive for jquery plugin floatthead
+directive for jquery plugin floatthead by https://github.com/mkoryak/floatThead
 
 Dependency: jquery
 
