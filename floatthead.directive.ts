@@ -27,4 +27,8 @@ export class FloatThead implements AfterViewInit {
           }
         });
     }
+    
+    ngOnDestroy() {
+        window.removeEventListener('scroll');
+    }
 }
